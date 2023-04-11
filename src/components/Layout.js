@@ -9,7 +9,7 @@ export default function Layout({ children }) {
       <nav className="navbar navbar-expand-lg navbar-light bg-light">
         <div className="navbar-container">
           <div className="navbar-icon">
-            <a className="navbar-brand" href="/gTranxprt-frontend">
+            <a className="navbar-brand" href="/">
               GTranscriptor
             </a>
           </div>
@@ -20,7 +20,7 @@ export default function Layout({ children }) {
                 <a
                   className="nav-link active"
                   aria-current="page"
-                  href="/gTranxprt-frontend"
+                  href="/"
                 >
                   Home
                 </a>
@@ -28,7 +28,7 @@ export default function Layout({ children }) {
               <li className="nav-item">
                 <a
                   className="nav-link active"
-                  href="/gTranxprt-frontend/signup"
+                  href="/signup"
                 >
                   Sign Up
                 </a>
