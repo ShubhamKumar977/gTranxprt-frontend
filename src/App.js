@@ -10,7 +10,7 @@ function App() {
         <Routes>
           <Route
             exact
-            path="/gTranxprt-frontend"
+            path="/gTranxprt-frontend/signup"
             element={
               <>
                 <Signup />
@@ -19,7 +19,7 @@ function App() {
           />
           <Route
             exact
-            path="/gTranxprt-fronend"
+            path="/gTranxprt-frontend"
             element={
               <>
                 {' '}
