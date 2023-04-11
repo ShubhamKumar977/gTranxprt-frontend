@@ -1,0 +1,20 @@
+.layout-container {
+  min-height: 100vh;
+}
+
+.navbar-container {
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+  position: relative;
+  height: 50px;
+}
+
+.navbar-icon {
+  margin-left: 10px;
+}
+
+.navbar-menu {
+  position: absolute;
+  right: 10px;
+}
