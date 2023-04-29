@@ -19,7 +19,7 @@ function App() {
           />
           <Route
             exact
-            path="/"
+            path="/gTranxprt-frontend"
             element={
               <>
                 {' '}
