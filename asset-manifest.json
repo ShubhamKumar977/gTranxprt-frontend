@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/gTranxprt-frontend/static/css/main.2fd8050c.css",
+    "main.js": "/gTranxprt-frontend/static/js/main.19df3529.js",
+    "index.html": "/gTranxprt-frontend/index.html",
+    "main.2fd8050c.css.map": "/gTranxprt-frontend/static/css/main.2fd8050c.css.map",
+    "main.19df3529.js.map": "/gTranxprt-frontend/static/js/main.19df3529.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2fd8050c.css",
+    "static/js/main.19df3529.js"
+  ]
+}
